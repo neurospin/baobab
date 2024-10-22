@@ -1,12 +1,12 @@
 
 # Site settings
-title: GAIA
-subtitle: Brain Imaging and Data Science Lab
-baseurl: #gaia
-url: # https://baobablab.github.io/
+title: BAOBAB
+subtitle: Unit
+baseurl: #baobab
+url: # https://neurospin.github.io/
 
 # Contacts
-email: edouard.duchesnay@cea.fr
+email: jean-francois.mangin@cea.fr
 author:
 street_address:
 city:
@@ -38,31 +38,6 @@ markdown: kramdown
 collections_dir: _collections
 collections:
 
-  opportunities:
-    output    : true
-    permalink : /:collection/:path
-
-  collaborators:
-    output    : true
-    permalink : /colleborators/:title/index.html
-
-  people:
-    output    : true
-    permalink : /people/:title/index.html
-
-  news:
-    output    : true
-    permalink : /news/:title/index.html
-
-  biblio:
-    output    : true
-    permalink : /biblio/:title/index.html
-
-  research:
-    output    : true
-    permalink : /research/:title/index.html
-
   labs:
     output    : true
     permalink : /labs/:title/index.html
-

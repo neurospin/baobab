@@ -1,11 +1,11 @@
 ![PoweredBy](https://img.shields.io/badge/Powered%20by-CEA%2FNeuroSpin-blue.svg)
-![Build Static Pages](https://github.com/neurospin/gaia/workflows/Build%20Static%20Pages/badge.svg)
+![Build Static Pages](https://github.com/neurospin/baobab/workflows/Build%20Static%20Pages/badge.svg)
 
 
 # Important links
 
-- repository URL: https://github.com/neurospin/gaia
-- site URL: https://neurospin.github.io/gaia
+- repository URL: https://github.com/neurospin/baobab
+- site URL: https://neurospin.github.io/baobab
 
 # How to contribute
 
@@ -13,9 +13,8 @@ The easiest way to update the content of the site is to create an issue from
 the GitHub interface:
 
 - first, log in to your GitHub account.
-- go to the issue page: https://github.com/neurospin/gaia/issues.
+- go to the issue page: https://github.com/neurospin/baobab/issues.
 - click the "New issue" buttton.
-- fill out the appropriate template.
 
 If you want to contribute more deeply:
 
