@@ -2,8 +2,8 @@
 # Site settings
 title: BAOBAB
 subtitle: Unit
-baseurl: #baobab
-url: # https://neurospin.github.io/
+baseurl:
+url:
 
 # Contacts
 email: jean-francois.mangin@cea.fr

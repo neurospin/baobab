@@ -5,7 +5,7 @@
 # Important links
 
 - repository URL: https://github.com/neurospin/baobab
-- site URL: https://neurospin.github.io/baobab
+- site URL: https://baobab.neurospin.fr
 
 # How to contribute
 
