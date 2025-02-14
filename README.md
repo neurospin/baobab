@@ -14,7 +14,7 @@ the GitHub interface:
 
 - first, log in to your GitHub account.
 - go to the issue page: https://github.com/neurospin/baobab/issues.
-- click the "New issue" buttton.
+- click the "New issue" button.
 
 If you want to contribute more deeply:
 
@@ -30,7 +30,7 @@ If you want to contribute more deeply:
 You have to customize the following parameters in `_config.yml`:
 
 - title: the name of your team.
-- subtitle: the runing title.
+- subtitle: the running title.
 - email: the contact email.
 - short_desc: the title of the banner in the index page.
 - long_desc: the content of the banner in the index page.
