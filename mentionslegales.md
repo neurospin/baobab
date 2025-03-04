@@ -5,8 +5,8 @@ permalink: /mentionslegales.html
 ---
 
 
-PRÉSENTATION DU SITE.
----------------------
+PRÉSENTATION DU SITE
+--------------------
 <ul>
     <li>
     Webmaster/Responsable publication : {{site.email}}.
@@ -18,8 +18,8 @@ PRÉSENTATION DU SITE.
 </ul>
 
 
-DESCRIPTION DES SERVICES FOURNIS.
----------------------------------
+DESCRIPTION DES SERVICES FOURNIS
+--------------------------------
 
 <ul>
     <li>
@@ -30,8 +30,8 @@ Tous les informations indiquées sur le site {{site.title}} sont données à tit
 </ul>
 
 
-LICENCE.
---------
+LICENCE
+-------
 
 <ul>
     <li>
@@ -40,8 +40,8 @@ Tous les droits sont réservés.
 </ul>
 
 
-LIENS HYPERTEXTES ET COOKIES.
------------------------------
+LIENS HYPERTEXTES ET COOKIES
+----------------------------
 <ul>
     <li>
 Le site {{site.title}} contient un certain nombre de liens hypertextes vers d’autres sites mais le webmasteur n’a pas la possibilité de vérifier le contenu des sites ainsi visités, et n’assumera en conséquence aucune responsabilité de ce fait.
