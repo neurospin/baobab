@@ -9,7 +9,7 @@ layout: page_lab
 <section id="banner">
 <div class="content">
   <p>
-  The overarching goal of the BAOBAB unit is to build large instruments for neuroimaging from ultra-high magnetic fields to population imaging. 
+  The overarching goal of the BAOBAB unit is to build large instruments for neuroimaging from ultra-high magnetic fields to population imaging.
   </p>
 </div>
 <div class="" style="width: 40%;">
@@ -20,4 +20,3 @@ layout: page_lab
   "/>
 </div>
 </section>
-

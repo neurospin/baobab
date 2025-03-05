@@ -14,7 +14,7 @@ email: jean-francois.mangin@cea.fr
 author:
 street_address:
 city:
-state: 
+state:
 zip_code:
 country: France
 phone:
@@ -34,7 +34,7 @@ map_url: https://www.google.fr/maps/@48.720535,2.1467526,16z?hl=en
 # Sass building
 sass:
     sass_dir: _sass
-    
+
 # Build settings
 markdown: kramdown
 
