@@ -15,7 +15,7 @@ Physicists and computer scientists at BAOBAB develop solutions that fully
 leverage the capabilities of the available instruments—most notably, the jewel
 of the NeuroSpin platform: the ISEULT MRI scanner, featuring a world-record
 11.7T magnet designed by CEA physicists who also oversee magnet development at
-CERN.></p>
+CERN.</p>
 
 <p class=MsoNormal>Other instruments at NeuroSpin serve
 multiple purposes for BAOBAB teams, from identifying the technical challenges
@@ -48,6 +48,7 @@ for data analysis.</p>
   "/>
 </div>
 </section>
+
 
 
 
