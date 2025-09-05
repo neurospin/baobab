@@ -42,16 +42,18 @@ for data analysis.</p>
 
 <p class=MsoNormal><b>Now, let’s discover in depth the activities of the different BAOBAB teams...</b></p>
 
+ <img src="{{site.url}}{{site.baseurl}}/images/Lestutelles.png" alt="Description de l'image" width="300">
 
 </div>
 <div class="" style="width: 40%;">
-  <img src="{{site.url}}{{site.baseurl}}/images/banner.png" alt="" style="
+  <img src="{{site.url}}{{site.baseurl}}/images/banner.gif" alt="" style="
     width: 100%;
     height: auto;
     margin-bottom: 2em;
   "/>
 </div>
 </section>
+
 
 
 
