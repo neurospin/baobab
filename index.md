@@ -44,13 +44,14 @@ for data analysis.</p>
 
 </div>
 <div class="" style="width: 40%;">
-  <img src="{{site.url}}{{site.baseurl}}/images/banner.gif" alt="" style="
+  <img src="{{site.url}}{{site.baseurl}}/images/BAOBAB logo.png" alt="" style="
     width: 100%;
     height: auto;
     margin-bottom: 2em;
   "/>
 </div>
 </section>
+
 
 
 
