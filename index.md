@@ -39,6 +39,16 @@ strategies in neuroscience imaging: <b>deep phenotyping</b>, enabled by
 exceptional instruments like those at NeuroSpin, and <b>broad phenotyping</b>,
 driven by large-scale cohorts and recent advances in artificial intelligence
 for data analysis.</p>
+
+<p class=MsoNormal><b>Now, let’s discover in depth the activities of the different BAOBAB teams...</b></p>
+
+<!
+ <img src="{{site.url}}{{site.baseurl}}/images/tutelles.png" alt="" style="
+    width: 100%;
+    height: auto;
+    margin-bottom: 2em;
+>
+
 </div>
 <div class="" style="width: 40%;">
   <img src="{{site.url}}{{site.baseurl}}/images/banner.png" alt="" style="
@@ -48,7 +58,6 @@ for data analysis.</p>
   "/>
 </div>
 </section>
-
 
 
 
