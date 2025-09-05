@@ -42,8 +42,6 @@ for data analysis.</p>
 
 <p class=MsoNormal><b>Now, let’s discover in depth the activities of the different BAOBAB teams...</b></p>
 
- <img src="{{site.url}}{{site.baseurl}}/images/Lestutelles.png" alt="Description de l'image" width="300">
-
 </div>
 <div class="" style="width: 40%;">
   <img src="{{site.url}}{{site.baseurl}}/images/banner.gif" alt="" style="
@@ -53,6 +51,7 @@ for data analysis.</p>
   "/>
 </div>
 </section>
+
 
 
 
