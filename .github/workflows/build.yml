@@ -38,7 +38,7 @@ jobs:
       run: find _site -name "*.html" -type f -exec sed -i "s/https:\/\/baobablab.github.io\/baobab/http:\/\/baobab.cnrs.fr/g" {} \;
 
     - name: Upload built pages
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v5
       with:
         name: baobab-site
         path: _site
